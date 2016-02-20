@@ -1,4 +1,3 @@
-var blanket = require('blanket');
 var assert = require('chai').assert;
 var BankAccount = require('./BankAccount');
 
